@@ -1,11 +1,10 @@
 ### Hello
 ----
-**我的个人网站**
+### 我的个人网站
 
 <div style="display: flex;">
-<a href="https://www.notre1024.com">
-  <img align="center" src="https://www.notre1024.com/upload/2022/06/android-chrome-192x192.png" />
-</a>
+
+[点我点我☘️☘️](https://www.notre1024.com)
 </div>
 
 ### 我的github统计数据
@@ -18,6 +17,4 @@
 </a>
 </div>
 
-### 定制
-> 想定制自己的主页，前往 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目
 
