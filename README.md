@@ -28,5 +28,5 @@
 
 ### 另外
 
-在域名部分github后面加上`1s`会有意想不到的惊喜哦🧩☘🧩, 比如*github1s.com/xxx*
+在域名部分github后面加上`1s`会有意想不到的惊喜哦🧩🧩, 比如*github1s.com/xxx*
 
