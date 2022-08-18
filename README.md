@@ -26,7 +26,8 @@
 
 ---
 
-### 另外
+### 进入VSCode
 
-在域名部分github后面加上`1s`会有意想不到的惊喜哦🧩🧩, 比如 *github1s.com/xxx*
+在域名部分github后面加上`1s`🧩🧩, 比如 *github1s.com/xxx*
+或者在英文输入法状态按下`.`
 
