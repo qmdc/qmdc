@@ -22,11 +22,3 @@ https://qiandao.space
 
 定制主页：https://github.com/anuraghazra/github-readme-stats
 
----
-
-### 进入VSCode
-
-将github改为github1s
-
-在英文输入法状态按下`.`
-
