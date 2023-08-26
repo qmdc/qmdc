@@ -1,11 +1,10 @@
-<h1>Hi !</h1>
+<h1>Hi! 🥳 My name is konan!</h1>
 
-<br/>
+### About me
 
-**About me**
+- 后端开发 notre1024@163.com
+- [千帆暮雨](https://qiandao.space) [梧桐河畔](https://qmdc.github.io) [github](https://github.com/qmdc) [gitee](https://gitee.com/notre) [csdn](https://blog.csdn.net/m0_57538148) [lofter](https://notre1024.lofter.com)
 
-- 后端开发
-- [个人博客](https:qiandao.space)
 
 | <a href="https://github.com/qmdc/qmdc"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qmdc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="qmdc's github stats" /></a> | <a href="https://github.com/qmdc/qmdc"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qmdc&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
