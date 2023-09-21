@@ -2,7 +2,7 @@
 
 ### About me
 
-- 后端开发 notre1024@163.com
+- notre1024@163.com
 - [千帆暮雨](https://qiandao.space) [梧桐河畔](https://qmdc.github.io) [github](https://github.com/qmdc) [gitee](https://gitee.com/notre) [csdn](https://blog.csdn.net/m0_57538148) [lofter](https://notre1024.lofter.com)
 
 
